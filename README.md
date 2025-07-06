@@ -14,6 +14,9 @@ I enjoy solving problems, writing code, and helping others level up.
 - **Instagram Clone (class project)** – Built with Flask, React, and JWT-based authentication  
   (https://github.com/agolriz714/csci344)
 - **Property Management Website** – Full-stack project for a local business with tenant portals and listings
+  (https://github.com/thegolriz/WebSite-project-ballc)
+- **GilliesPY3D** - Contributing to an open-source stochastic simulation library for computational biology
+  (https://github.com/GillesPy3D/GillesPy3D/tree/develop)
 - **Codecrafters Projects** – Low-level implementations of HTTP servers and shells
 
 ### Ask Me About
